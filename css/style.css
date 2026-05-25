@@ -1,0 +1,61 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
+@import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.13.1/font/bootstrap-icons.min.css");
+
+body{
+    font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 18px;
+  line-height: 1.5;
+}
+
+nav li ,li{
+    display: inline-block;
+    padding-left: 15px;
+}
+
+a, button{
+    text-decoration: none;
+    color: #ffffff;
+}
+
+.bg{
+    background-image:url(../img/gt7.PNG);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 1600px;;
+    
+}
+
+.pa{
+padding: 250px;
+}
+
+.par{
+    padding-left: 265px;
+}
+
+.fs{
+    font-size: 80px;
+    font-weight: 300;
+}
+
+.feher{
+    color: #ffffff;
+}
+
+.pb{
+    padding-bottom: 100px;
+}
+
+.sarga{
+background-color: #d63d00;
+}
+
+.px{
+    padding-left: 140px;
+    padding-right: 140px;
+    
+}
+
