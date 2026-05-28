@@ -92,14 +92,34 @@ padding-right: 140px;
 color: #a3b2b2;
 }
 
-.h0{
-    height: 70%;
-    
-}
-
 .pll{
     padding-left: 40px;
 }
 .prr{
     padding-right: 40px;
+}
+
+.bg2 {
+    background-image: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url(../img/playstation5-playstation5-2_thumb674.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 900px;
+}
+
+.szurke{
+    color: #cfcfcf;
+}
+
+.padt{
+    padding-top: 140px;
+    padding-left: 165px;
+    padding-right: 165px;
+}
+
+.kicsi{
+    font-size: 13px;
+}
+
+.kekhatter{
+    background-color: #134286;
 }
