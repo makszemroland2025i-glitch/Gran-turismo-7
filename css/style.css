@@ -20,7 +20,6 @@ a, button{
     color: #ffffff;
 }
 
-<<<<<<< Updated upstream
 .navsav{
      position:fixed;
     top: 0;
@@ -29,14 +28,6 @@ a, button{
     
 
 
-=======
-.navsav {
-    position: fixed;
-    top: 0;
-    z-index: 1000;
-    background-color: white;
-}
->>>>>>> Stashed changes
 
 .bg{
     background-image:url(../img/gt7.PNG);
@@ -56,6 +47,7 @@ padding: 120px;
 
 .fs{
     font-size: 56px;
+    font-weight: 300;
 }
 
 .feher{
@@ -157,26 +149,11 @@ color: #a3b2b2;
     padding-bottom: 250px;
 }
 
-<<<<<<< Updated upstream
-=======
-.Ps5{
-    padding-left: 500px;
-}
-
-.Video1{
-    margin-left: 900px;
-}
-
-.Cím2{
-    font-size: 50px;
-}
->>>>>>> Stashed changes
 video{
     border-radius: 25px;
     overflow: hidden;
 }
 
-<<<<<<< Updated upstream
 .bg4{
      background-image:url(../img/gt7\ hatter.PNG);
     background-repeat: no-repeat;
@@ -186,24 +163,4 @@ video{
 
 .paddingtop{
 padding-top: 100px;
-=======
-.paddingleft{
-    padding-left: 140px;
-}
-
-.paddingright{
-    padding-right: 140px;
-}
-
-.bg4{
-    background-image:url(../img/gt7\ hatter.PNG);
-    background-repeat: no-repeat;
-    background-size: cover;
-    height: 900px;
-    
-}
-
-.paddingtop{
-    padding-top:100px;
->>>>>>> Stashed changes
 }
