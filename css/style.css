@@ -20,6 +20,15 @@ a, button{
     color: #ffffff;
 }
 
+.navsav{
+     position:fixed;
+    top: 0;
+    background-color: white;
+}
+    
+
+
+
 .bg{
     background-image:url(../img/gt7.PNG);
     background-repeat: no-repeat;
@@ -140,18 +149,18 @@ color: #a3b2b2;
     padding-bottom: 250px;
 }
 
-.Ps5{
-    padding-left: 500px;
-}
-
-.Video1{
-    margin-left: 900px;
-}
-
-.Cím2{
-    font-size: 50px;
-}
 video{
     border-radius: 25px;
     overflow: hidden;
+}
+
+.bg4{
+     background-image:url(../img/gt7\ hatter.PNG);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 900px;
+}
+
+.paddingtop{
+padding-top: 100px;
 }
